@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-In this project I am using the OpenWeatherMap and Google APIs to created a Map by takeing input from the user about their temperature preferences and providing them a heatmap with potential vacation destinations within their preferred temperature ranges, which provides them with name and location of the city, the country, description of the weather, and their most recent exact temperature values.
+In this project I am using the OpenWeatherMap and Google APIs to created a Map by taking input from the user about their temperature preferences and providing them a heatmap with potential vacation destinations within their preferred temperature ranges, which provides them with name and location of the city, the country, description of the weather, and their most recent exact temperature values.
 
 ### Purpose
 
