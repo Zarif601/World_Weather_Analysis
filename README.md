@@ -6,7 +6,7 @@ In this project I am using the OpenWeatherMap and Google APIs to create a Map by
 
 ### Purpose
 
-The purpose of this project is to write code for an app, called, PlanMyTrip, which will allow users to add their weather preferances, and get access to potential travel destinations and nearby hotels. There is also a feature that creates best routes between multiple chosen destinations on a map.
+The purpose of this project is to write code for an app, called, PlanMyTrip, which will allow users to add their weather preferences, and get access to potential travel destinations and nearby hotels. There is also a feature that creates best routes between multiple chosen destinations on a map.
 
 ## Results
 
