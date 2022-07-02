@@ -16,7 +16,7 @@ The project is split up into three parts:
 
 2. In the [Vacation_Search](https://github.com/Zarif601/World_Weather_Analysis/tree/main/Vacation_Search) folder, I created a map with travel destinations based on the weather preferences of the user, using the DataFrame created during the previous step of the project. A description of the current weather at locations, along with other information is provided on google maps when markers for different relevant cities are clicked on.
 
-3. This last part of the project, stored in the [Vacation_Itinerary](https://github.com/Zarif601/World_Weather_Analysis/tree/main/Vacation_Itinerary) folder, I used the Google Directions API to create a travel itinerary tha shows the route between four cities chosen from the user's possible travel destinations. Similiar to the last step, this map also contains markers with relevant information for each city.
+3. In this last part of the project, stored in the [Vacation_Itinerary](https://github.com/Zarif601/World_Weather_Analysis/tree/main/Vacation_Itinerary) folder, I used the Google Directions API to create a travel itinerary tha shows the route between four cities chosen from the user's possible travel destinations. Similiar to the last step, this map also contains markers with relevant information for each city.
 
 ## Summary
 
